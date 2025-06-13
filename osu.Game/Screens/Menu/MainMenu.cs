@@ -503,7 +503,6 @@ namespace osu.Game.Screens.Menu
         [CanBeNull]
         private IDisposable logoProxy;
 
-
         private void loadPreferredSongSelect()
         {
             if (songSelectV2.Value)
